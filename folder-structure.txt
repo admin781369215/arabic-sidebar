@@ -1,0 +1,7 @@
+app/
+  api/
+    products/
+      route.ts      # للتعامل مع جميع المنتجات
+      [id]/
+        route.ts    # للتعامل مع منتج محدد
+
